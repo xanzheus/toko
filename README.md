@@ -1,3 +1,3 @@
 ## Toko
 
-[``LINK``](https://xanzheus.github.io/Toko)
+[``LINK``](https://xanzheus.github.io/toko)
